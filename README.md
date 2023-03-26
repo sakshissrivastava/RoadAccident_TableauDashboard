@@ -1,8 +1,8 @@
 # Road Accidents Tableau Dashboard
 
 This Repository contains the data source and the tableau workbook used to create the interactive dashboard.
-Link to the dashboard ↓↓↓
-[Tableau Dashboard](https://public.tableau.com/app/profile/sakshi.srivastava6044/viz/RoadAccidents_Dashboard/RoadAccident_Dashboard)
+
+Link to the dashboard → [Tableau Dashboard](https://public.tableau.com/app/profile/sakshi.srivastava6044/viz/RoadAccidents_Dashboard/RoadAccident_Dashboard)
 
 #### About the Dataset
 1) This dataset is specifically of UK region obatined from Kaggle 
